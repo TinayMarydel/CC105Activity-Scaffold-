@@ -11,7 +11,7 @@ void main() {
             ),
             body: Center(
              child: Image(
-               image: NetworkImage('https://trupanion.com/-/media/trupanion/images/breed--guide--new/ragdoll/ragdoll-cat2.jpg?la=en&hash=432DAE4347A791D5ACDA7937A489E2FD2C412178'),
+               image: AssetImage('images/ragdoll-cat2.jpg'),
              ) 
             )
           )
